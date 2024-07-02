@@ -30,6 +30,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "PanoramicCapture",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
